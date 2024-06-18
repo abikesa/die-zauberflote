@@ -8,8 +8,8 @@
 ### Dionysus 1, 2, [3](https://en.wikipedia.org/wiki/The_Magic_Flute) 
 - Prelude: `Root, 3rd, 5th, ♭♭7, 9th`
 
-### Fugue: Sing O Muse 4 
-- Fugue:  `11th, 13th`
+### Sing O Muse 4 
+- Fugue: `11th, 13th`
      
-### Development: Apollo 5, 6 
+### Apollo 5, 6 
 - Development: `♭9,♯9,♯11,♭13`
